@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733673104 source:y:\iti\os45 iti menofia\problem solving\5-assuit\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+
