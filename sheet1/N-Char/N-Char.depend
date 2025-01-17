@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1734698327 source:y:\iti os45 menofia\problem solving\n-char\main.cpp
+	<iostream>
+	<cctype>
+
